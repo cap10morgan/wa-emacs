@@ -1,3 +1,5 @@
+**DEPRECATED:** Wahoo has been merged into [Oh My Fish](https://git.io/oh-my-fish), which already has a great Emacs plugin. This repo will be deleted soon.
+
 # emacs
 
 A port of the oh-my-fish emacs plugin to the [Wahoo Framework](https://github.com/bucaran/wahoo).
